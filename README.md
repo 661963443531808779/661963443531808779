@@ -7,10 +7,10 @@
 ---
 
 ### 🔥 À propos de moi  
-- 🚀 **Technicien chez FiveMShield.net** (Protection de serveurs FiveM).  
+- 🚀 **Technicien chez FiveMShield.net**  
 - 🔧 J’interviens sur **l’administration de serveurs, la maintenance et l’optimisation des services**.  
-- 🌍 Expérience en **hébergement, virtualisation et gestion d’infrastructure**.  
-- 🖥️ Passionné par **les systèmes Linux et la gestion des machines virtuelles**.  
+- 🌍 Expérience avec **l’hébergement et le réseau**.  
+- 🖥️ Passionné par **Linux, l’hébergement et les infrastructures réseau**.  
 
 ---
 
@@ -22,11 +22,11 @@
 ![Windows Server](https://img.shields.io/badge/-Windows_Server-0078D7?logo=windows&logoColor=white&style=for-the-badge)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge)
 
-⚡ **Infrastructure & Maintenance** :  
+⚡ **Infrastructure & Réseau** :  
 ![Proxmox](https://img.shields.io/badge/-Proxmox-E57000?logo=proxmox&logoColor=white&style=for-the-badge)
-![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=for-the-badge)
-![Plesk](https://img.shields.io/badge/-Plesk-52B0E7?logo=plesk&logoColor=white&style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/-Monitoring-00C853?logo=prometheus&logoColor=white&style=for-the-badge)
+![Cisco](https://img.shields.io/badge/-Cisco-1BA0D7?logo=cisco&logoColor=white&style=for-the-badge)
+![MikroTik](https://img.shields.io/badge/-MikroTik-FF6600?logo=mikrotik&logoColor=white&style=for-the-badge)
+![Dell](https://img.shields.io/badge/-Dell-007DB8?logo=dell&logoColor=white&style=for-the-badge)
 
 ---
 
@@ -37,6 +37,5 @@
 ---
 
 ### 🌍 Me retrouver  
-📢 [Mon site](https://ledhosting.fr)  
 📌 [FiveMShield](https://fivemshield.net)  
-💬 Discord : `Dorian#1234`
+💬 Discord : `maximed91`
