@@ -31,8 +31,22 @@
 ---
 
 ### 📊 GitHub Stats  
-![Dorian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorianDev&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorianDev&layout=compact&theme=tokyonight)
+![Dorian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DorianDev&show_icons=true&theme=tokyonight&count_private=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DorianDev&layout=compact&theme=tokyonight)  
+
+---
+
+### 🔥 **Stats avancées (inclut commits et repos privés)**  
+![GitHub Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DorianDev&theme=tokyonight)  
+
+📈 **Stats supplémentaires** :  
+![Total Commits](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DorianDev&theme=tokyonight)  
+![Repositories Privés/Publics](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DorianDev&theme=tokyonight)  
+
+---
+
+### 🔥 **Stats de mon profil**  
+![Profil Views](https://komarev.com/ghpvc/?username=DorianDev&label=Visites&color=blue&style=for-the-badge)
 
 ---
 
